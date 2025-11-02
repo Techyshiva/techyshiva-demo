@@ -1,4 +1,5 @@
 # techyshiva-demo
-this is my first Git Repo
+
+this is my first Git Repository.
 <br>
-author - Shivam Mhaske
+Author - Shivam Mhaske
